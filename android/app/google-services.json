@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "644724658131",
+    "project_id": "courses-94387",
+    "storage_bucket": "courses-94387.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644724658131:android:cfc89a7cb8bbfbb1902926",
+        "android_client_info": {
+          "package_name": "com.example.learn_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644724658131-pojp434kam5rf4k2do1ol9c2fnemjfm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMIYcgA3uU1dp6hQxiCTFhJKyVvKIfMR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644724658131-pojp434kam5rf4k2do1ol9c2fnemjfm4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "644724658131-318p7tk3mj5rd3cb60r3dmn01f50pn4t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.learnApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644724658131:android:64cbc6682f4632af902926",
+        "android_client_info": {
+          "package_name": "com.example.learn_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644724658131-pojp434kam5rf4k2do1ol9c2fnemjfm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMIYcgA3uU1dp6hQxiCTFhJKyVvKIfMR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644724658131-pojp434kam5rf4k2do1ol9c2fnemjfm4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "644724658131-318p7tk3mj5rd3cb60r3dmn01f50pn4t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.learnApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
